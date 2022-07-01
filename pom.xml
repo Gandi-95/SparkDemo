@@ -12,7 +12,7 @@
     <properties>
         <spark.version>2.4.3</spark.version>
         <scala.version>2.11</scala.version>
-        <hadoop.version>2.6.5</hadoop.version>
+        <hadoop.version>2.7.0</hadoop.version>
         <hbase.version>1.2.6</hbase.version>
     </properties>
 
